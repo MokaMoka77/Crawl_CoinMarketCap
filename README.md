@@ -10,7 +10,8 @@ Crawl_CoinMarketCap is a scheduled web scraping project via airflow. Thereby, da
 Dowload docker desktop <br>
 Build image dockerfile <br>
 Run compose up docker-compose.yaml <br>
-Run image in docker desktop - localhost:8080 
+Run image in docker desktop <br>
+Open: localhost:8080 
 
 ## Account
 username: admin <br>
