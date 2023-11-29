@@ -12,6 +12,6 @@ Build image dockerfile <br>
 Run compose up docker-compose.yaml <br>
 Run image in docker desktop - localhost:8080 
 
-## use account
+## Account
 username: admin <br>
 password: 9RTQfxhABxt8rRNy
